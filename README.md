@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="48">
 
 
 <!--
